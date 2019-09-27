@@ -11,8 +11,12 @@ body{
     top:29.9%;
     left:30.5%;
 }
-h2{
+h1{
     font-size:57px;
+    font-family: 'Pathway Gothic One', sans-serif;  
+}
+h2{
+    font-size:59px;
     font-family: 'Pathway Gothic One', sans-serif;
 }
 .logo2{
@@ -34,5 +38,7 @@ p{
     top:32%;
     left:10%;
     font-weight: bold;
-
+}
+.des1{
+    display:none;
 }
