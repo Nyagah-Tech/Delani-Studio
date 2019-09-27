@@ -8,7 +8,7 @@ body{
 }
 .logo1{
     position: absolute;
-    top:29.7%;
+    top:29.9%;
     left:30.5%;
 }
 h2{
@@ -23,4 +23,16 @@ h2{
 p{
     font-family:'Cormorant', serif;
     font-size:24px;
+}
+.img2{
+    position: relative;
+    color:white;
+    text-align: center;
+}
+.text{
+    position:absolute;
+    top:32%;
+    left:10%;
+    font-weight: bold;
+
 }
