@@ -23,6 +23,14 @@ $(document).ready(function(){
         $(".prod").toggle();
         $(".prodText").toggle();
     });
-    
-})
+   
+});
+function calculator(){
+    var final="";
+    var nameInput=document.forms["myForm"] ["name"].value;
+    alert(nameInput = "");
+};
+
+
+
 

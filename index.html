@@ -146,19 +146,20 @@
         <img src="images/assets/backgrounds/c_image.jpg" width="100%" height="100%">
         <div class="container">
             <div class="cont">
-                    <p class="us"><b>CONTACT US</b></p>
-                    <br>
-                            <form name="myform">
+                    
+                    <form name="myForm" onsubmit="event.preventDefault(); calculator()">
+                                    <h3 class="us"><b>CONTACT US</b></h3>
+                                    <br>
                                 <div class="row">
                                     <div class="col-md-6">
-                                            <input type="name" name="name"  placeholder="Name...">
+                                            <input id= "name" type="name" value="name" placeholder="Name...">
                                     </div>
                                     <div class="col-md-6">
-                                        <input type="email" name="email" placeholder="Email...">
+                                        <input id="email" type="email" value="email" placeholder="Email...">
                                     </div>
-                                </div><br>
-                                <input id="meso" placeholder="Your message here..."><br><br>
-                                <input type="submit" value="submit">
+                                </div><br><br>
+                                <input id="meso" placeholder="Your message here..."><br><br><br>
+                               <input type="submit" value="submit">
                                 
                             </form>
             </div>
