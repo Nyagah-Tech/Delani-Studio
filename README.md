@@ -22,5 +22,4 @@ The user can get information about our team.
 The user can see some of the projects we have done.
 The user can input his/her name and email inorder to communicate to us.
 ### License
-
-Copyright (c)2019 
+developed by Delani-Studio team. 
