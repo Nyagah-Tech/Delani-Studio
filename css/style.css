@@ -125,7 +125,7 @@ button{
     font-size: 13px;
     font-family:'Cormorant', serif;
 }
-@media screen and (min-width: 480px) {
+@media screen and (min-width: 720px) {
     body {
         background-color: black;
         color: white;
