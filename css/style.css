@@ -121,4 +121,8 @@ input{
 button{
     font-size: 20px;
 }
+.ftr{
+    font-size: 13px;
+    font-family:'Cormorant', serif;
+}
 

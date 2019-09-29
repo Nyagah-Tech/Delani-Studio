@@ -25,17 +25,16 @@ $(document).ready(function(){
     });
    
 });
+
+
+
 function calculator(){
     var final="";
     var nameInput=document.forms["myForm"] ["name"].value;
-    alert(nameInput + "we have received your message. Thank you for reaching out to us. We shall respond to the above through your email..");
-    var frm = document.getElementsByClassName('myForm')[0];
-    frm.submit(); // Submit
-    frm.reset(dateObject);  // Reset
-    return false; // Prevent page refresh
+    alert(nameInput + "," + " " + "we have received your message. Thank you for reaching out to us. We shall respond to the above through your email..");
+    $("#final").click(function(){
+        
+    })
 
 };
-
-
-
 
