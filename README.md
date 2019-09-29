@@ -1,9 +1,8 @@
 # Delani-Studio
-this is a website that mainly advertises our team to the outside world to be able.
+This is a website that mainly advertises our team to the outside world to be able to solve case problems to the world.
 This project was done by Daniel Muvinju.  
 ## Description
-Akan Name Engine is a web-application that generates an akan name for the user.The application uses the the users birthday and gender to generate the Akan Name.Akan naming is a Ghananian culture practiced by people in ghana.They name children according to day of the week the were born example:a male born on sunday he would be named Kwasi while a female is called Akosua.We hope by creating this web-application 
-you will enjoy its services.
+Delani-Studios is a website that helps our team to be able to reach out to our partners easily.This web-application advertises our team to the outside world.It gives information about our team and also some works we have worked on
 This application was developed by Daniel Muvinju Nyagah and also maintainance is done by the same party.
 ## Setup/Installation Requirements
 For this application to learn well ensure you have an updated browser and also you should be an english literate.
