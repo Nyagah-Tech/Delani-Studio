@@ -10,8 +10,8 @@ Should have internet connection on the device they are trying to access the webs
 Should an updated broswer engine.
                                   
 
-## Known Buweb-gs
- Is to our know how that the above application is free from bugs.Your information is truely safe with us.
+## Known Bugs
+ Is to our know how that the above web-application is free from bugs.Your information is truely safe with us.
 ## Technologies Used
 The language used to develop this application is the HTML,CSS,BOOTSTRAP,JAVASCRIPT and JQUERY which is a js library.. 
 ## Support and contact details
