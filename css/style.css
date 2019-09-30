@@ -83,10 +83,11 @@ p{
 .col-sm-3:hover .namepic{
     opacity: 0.6;
 }
-.end{
-    position: relative;
-    text-align:center;
-}
+/* #mc_embed_signup{
+    position: absolute;
+    text-align:center; */
+
+
 .cont{
     position: absolute;
     top:8%;
@@ -125,7 +126,23 @@ button{
     font-size: 13px;
     font-family:'Cormorant', serif;
 }
-@media screen and (min-width: 720px) {
+.end{
+    position:relative;
+    text-align: center;
+}
+/* #mce-EMAIL{
+    margin-left:10%;
+} 
+
+#mce-FNAME{
+    margin-right: 10%;
+} */
+
+/* .row{
+    display: flex;
+    
+} */
+@media screen and (max-width: 720px) {
     body {
         background-color: black;
         color: white;
