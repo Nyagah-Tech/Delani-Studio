@@ -142,6 +142,11 @@ button{
     display: flex;
     
 } */
+
+.icon{
+    background-color: black;
+}
+
 @media screen and (max-width: 720px) {
     body {
         background-color: black;
