@@ -30,7 +30,7 @@ $(document).ready(function(){
 
 function calculator(){
     var final="";
-    var nameInput=document.forms["myForm"] ["name"].value;
+    var nameInput=document.forms["mc-embedded-subscribe-form"] ["FNAME"].value;
     alert(nameInput + "," + " " + "we have received your message. Thank you for reaching out to us. We shall respond to the above through your email..");
     $("#final").click(function(){
         
